@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423049874678",
+    "project_id": "fisheryapp-914e8",
+    "storage_bucket": "fisheryapp-914e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423049874678:android:7f06b27628fd84992970d7",
+        "android_client_info": {
+          "package_name": "dev.broseph.fisheryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423049874678-tucmljjm4aga08am2u0ec33mjq903018.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.broseph.fisheryapp",
+            "certificate_hash": "d93113c448f7f7fe89be7005c59f2a89f49ea63e"
+          }
+        },
+        {
+          "client_id": "423049874678-qqghtt0ma6m9l7a9m4qvtup725ee939j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv5s76J3-TTK3of2Ot00VubX5oiEJ5KCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423049874678-qqghtt0ma6m9l7a9m4qvtup725ee939j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
