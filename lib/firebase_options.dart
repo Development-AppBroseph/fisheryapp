@@ -59,12 +59,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBacaoNA_sby-MmAAiVg_J9oL-iRGmiQXg',
-    appId: '1:423049874678:ios:389c699a8ca915312970d7',
+    appId: '1:423049874678:ios:7ef6456765d612e52970d7',
     messagingSenderId: '423049874678',
     projectId: 'fisheryapp-914e8',
     storageBucket: 'fisheryapp-914e8.appspot.com',
     androidClientId: '423049874678-tucmljjm4aga08am2u0ec33mjq903018.apps.googleusercontent.com',
     iosClientId: '423049874678-u3e1gafl12rkv4caej85pjm52sjcr3du.apps.googleusercontent.com',
-    iosBundleId: 'com.example.starFriends',
+    iosBundleId: 'dev.broseph.fishApp',
   );
 }
